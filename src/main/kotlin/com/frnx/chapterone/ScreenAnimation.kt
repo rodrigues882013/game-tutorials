@@ -1,4 +1,4 @@
-package com.frnx.spaceinvaders.chapterone
+package com.frnx.chapterone
 
 import java.awt.Color
 import java.awt.Graphics
