@@ -1,4 +1,4 @@
-package com.frnx.chapterone
+package com.frnx.gametutorials.chapterone
 
 import java.awt.Color
 import java.awt.Graphics

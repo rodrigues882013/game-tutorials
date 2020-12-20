@@ -1,6 +1,6 @@
-package com.frnx.chapterone.commons
+package com.frnx.gametutorials.commons
 
-import com.frnx.chapterone.Element
+import com.frnx.gametutorials.chapterone.Element
 
 class Util {
 
