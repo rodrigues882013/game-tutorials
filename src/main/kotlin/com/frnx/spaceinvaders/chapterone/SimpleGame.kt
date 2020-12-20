@@ -13,7 +13,8 @@ data class Element (
         var y: Int,
         var height: Int,
         val width: Int,
-        var speed: Double = 0.0)
+        var speed: Double = 0.0,
+        var active: Boolean = true)
 
 class SimpleGame (
         private var screen: JPanel? = null,
